@@ -61,11 +61,11 @@ Currently developing practical projects involving:
 
 ### [DevOps Technical Challenge](https://github.com/lucasbarrosodemattos/desafio-tecnico-devops)
 
-Hands-on DevOps project involving containerization, Infrastructure as Code, AWS, Terraform, automation, and CI/CD practices.
+Hands-on DevOps project built with Docker, Terraform/Terragrunt, AWS ECS Fargate, GitHub Actions, CI/CD, CloudWatch, IAM, and remote Terraform state management.
 
-### [Match Engine for Jobs](https://github.com/lucasbarrosodemattos/match-engine-vagas)
+### Match Engine for Jobs
 
-Project focused on structuring and automating career and job-matching workflows, also used as a practical environment for Git and software development practices.
+Private project focused on career and job-matching workflows, Git practices, automation, and software development.
 
 ## 🌎 Languages
 
