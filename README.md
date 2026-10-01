@@ -44,18 +44,9 @@ I am currently expanding this experience through hands-on DevOps and Cloud proje
 - Capacity and resource management
 - Support for large enterprise environments
 
-## ☁️ DevOps & Cloud Focus
+## ☁️ Current Focus
 
-Currently developing practical projects involving:
-
-- Infrastructure as Code with Terraform
-- AWS infrastructure
-- Docker containerization
-- Kubernetes
-- CI/CD pipelines
-- Git and GitHub workflows
-- Infrastructure automation
-- Cloud architecture fundamentals
+Strengthening my hands-on Cloud and DevOps experience through practical projects involving AWS, Terraform, containerization, CI/CD, and infrastructure automation.
 
 ## 🚀 Featured Projects
 
