@@ -6,6 +6,19 @@ My background combines middleware administration, application deployments, incid
 
 I am currently expanding this experience through hands-on DevOps and Cloud projects focused on Infrastructure as Code, containers, CI/CD, AWS, and automation.
 
+## 🛠️ Tech Stack
+
+![WebLogic](https://img.shields.io/badge/WebLogic-Enterprise%20Middleware-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![OpenShift](https://img.shields.io/badge/OpenShift-Red%20Hat-red)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black)
+![Linux](https://img.shields.io/badge/Linux-Systems-yellow)
+
 ## 🧰 Core Technologies
 
 - **Middleware:** WebLogic, WebSphere, Tomcat
